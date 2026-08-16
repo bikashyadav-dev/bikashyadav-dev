@@ -63,12 +63,6 @@ To become a skilled Full Stack Developer and build reliable, user-friendly softw
 
 - GitHub: [@bikashyadav-dev](https://github.com/bikashyadav-dev)
 
-  
-## 📊 GitHub Stats
-
-![Bikash's GitHub Stats](https://github-readme-stats.vercel.app/api?username=bikashyadav-dev&show_icons=true&theme=tokyonight&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bikashyadav-dev&layout=compact&theme=tokyonight&hide_border=true)
 ---
 
 ⭐ Thanks for visiting my profile!
