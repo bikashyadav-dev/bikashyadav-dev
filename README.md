@@ -1,73 +1,147 @@
-# Hi, I'm Bikash Yadav 👋
+# 👋 Hi, I'm Bikash Yadav
 
-### 💻 BCA Student | PHP & Web Developer | Learning Full Stack Development
+### BCA Student | PHP & Web Developer | Learning Full Stack Development
 
-I'm a BCA student passionate about building practical web applications and improving my software development skills. I enjoy working with PHP, MySQL, JavaScript and modern web technologies.
+I am a BCA student passionate about software development and building practical web applications. I enjoy working with PHP, MySQL, JavaScript and modern web technologies.
 
-## 🚀 About Me
+---
+
+## 👨‍💻 About Me
 
 - 🎓 BCA Student
-- 💻 Interested in Software Development & Web Development
-- 🌱 Currently learning Full Stack Development
+- 💻 Interested in Software & Web Development
 - 🔐 Building PHP + MySQL applications
-- 🛠️ Interested in creating real-world projects
-- 📚 Always learning and improving my coding skills
+- 🌱 Currently learning Full Stack Development
+- 🛠️ Interested in real-world software projects
+- 🚀 Always learning and improving my development skills
+
+---
 
 ## 🧰 Tech Stack
 
-**Languages:**
+### Languages
 
-`C` `C++` `Python` `JavaScript` `PHP`
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 
-**Web Development:**
+### Web Development
 
-`HTML` `CSS` `JavaScript` `PHP` `Bootstrap`
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 
-**Database & Tools:**
+### Database & Tools
 
-`MySQL` `Git` `GitHub` `VS Code`
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
-## 📌 Featured Projects
+---
 
-### 🎓 Student Management System – PHP
+## 🚀 Featured Projects
 
-A PHP + MySQL based student management application with login authentication, dashboard, student CRUD operations, edit/update and delete functionality.
+### 🎓 Student Management System
 
-🔗 [Student Management System PHP](https://github.com/bikashyadav-dev/Student-Management-System-PHP)
+A complete PHP + MySQL student management application with authentication, dashboard and CRUD functionality.
 
-### 🔐 Login Authentication System
+**Features**
 
-PHP-based registration and login system using password hashing and MySQL database authentication.
+- User registration & login
+- Password hashing
+- Dashboard
+- Add student
+- Edit student
+- Update student
+- Delete student
+- MySQL database integration
+
+🔗 **[View Project](https://github.com/bikashyadav-dev/Student-Management-System-PHP)**
+
+---
+
+### 🔐 PHP Login System
+
+PHP authentication system using sessions, password hashing and MySQL.
+
+🔗 **[View Project](https://github.com/bikashyadav-dev)**
+
+---
 
 ### 🌦️ Weather App
 
-A JavaScript weather application using an API to display current weather information for searched cities.
+JavaScript-based weather application using an API to display weather information.
 
-### 🖥️ Portfolio Website
+🔗 **[View Projects](https://github.com/bikashyadav-dev)**
 
-Personal portfolio website showcasing my skills, projects and developer profile.
+---
 
-## 📈 Currently Learning
+## 📊 GitHub Stats
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=bikashyadav-dev&show_icons=true&theme=tokyonight&hide_border=true" height="170">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bikashyadav-dev&layout=compact&theme=tokyonight&hide_border=true" height="170">
+
+</p>
+
+---
+
+## 📈 GitHub Metrics
+
+<p align="center">
+
+<img src="./github-metrics.svg" alt="Bikash GitHub Metrics">
+
+</p>
+
+---
+
+## 🔥 Contribution Activity
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=bikashyadav-dev&theme=tokyo-night&hide_border=true" width="100%">
+
+</p>
+
+---
+
+## 🎯 Currently Learning
 
 - Full Stack Web Development
 - Advanced PHP & MySQL
 - JavaScript
 - Backend Development
-- AI & modern development tools
+- REST APIs
+- Modern Development Tools
+
+---
 
 ## 🎯 Career Goal
 
-To become a skilled Full Stack Developer and build reliable, user-friendly software applications that solve real-world problems.
+My goal is to become a skilled Full Stack Developer and build reliable, user-friendly software applications that solve real-world problems.
+
+---
 
 ## 🤝 Connect With Me
 
-- GitHub: [@bikashyadav-dev](https://github.com/bikashyadav-dev)
+<p align="center">
 
-## 📊 GitHub Metrics
+<a href="https://github.com/bikashyadav-dev">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
+</a>
 
-![Bikash's GitHub Metrics](./github-metrics.svg)
+</p>
+
 ---
 
-⭐ Thanks for visiting my profile!
+## ⭐ Thanks for Visiting
+
+If you find my projects useful, feel free to ⭐ the repositories.
 
 **Keep Learning • Keep Building • Keep Growing 🚀**
