@@ -63,6 +63,9 @@ To become a skilled Full Stack Developer and build reliable, user-friendly softw
 
 - GitHub: [@bikashyadav-dev](https://github.com/bikashyadav-dev)
 
+## 📊 GitHub Metrics
+
+![Bikash's GitHub Metrics](./github-metrics.svg)
 ---
 
 ⭐ Thanks for visiting my profile!
