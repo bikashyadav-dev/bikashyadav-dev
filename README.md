@@ -1,3 +1,5 @@
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=bikashyadav-dev&theme=tokyo-night&hide_border=true" width="100%">
 # 👋 Hi, I'm Bikash Yadav
 
 ### BCA Student | PHP & Web Developer | Learning Full Stack Development
