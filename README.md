@@ -79,6 +79,25 @@ A complete PHP + MySQL student management application with authentication, dashb
 🔗 **[View Project](https://github.com/bikashyadav-dev/Student-Management-System-PHP)**
 
 ---
+### ✅ To-Do Pro
+
+A JavaScript-based To-Do application for managing daily tasks.
+
+🔗 **[View Project](https://bikashyadav-dev.github.io/ToDo-Pro/)**
+
+
+### 🧮 Calculator
+
+A simple and responsive calculator built using HTML, CSS and JavaScript.
+
+🔗 **[View Project](https://bikashyadav-dev.github.io/Calculator/)**
+
+
+### ⏰ Digital Clock
+
+A JavaScript-based digital clock displaying real-time date and time.
+
+🔗 **[View Project](https://bikashyadav-dev.github.io/Digital-Clock/)**
 
 ### 🔐 PHP Login System
 
