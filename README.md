@@ -45,6 +45,22 @@ I am a BCA student passionate about software development and building practical 
 
 ## 🚀 Featured Projects
 
+### 🌐 Personal Portfolio
+
+A professional personal portfolio website showcasing my skills, projects, education and experience.
+
+**Features**
+- 👨‍💻 About Me
+- 🛠️ Skills & Technologies
+- 🚀 Projects
+- 📄 Resume
+- 📞 Contact Section
+- 📱 Responsive Design
+
+🔗 **[View Portfolio](https://bikashyadav-dev.github.io/PortFolio/)**
+
+
+
 ### 🎓 Student Management System
 
 A complete PHP + MySQL student management application with authentication, dashboard and CRUD functionality.
