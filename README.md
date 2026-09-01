@@ -99,20 +99,18 @@ A JavaScript-based digital clock displaying real-time date and time.
 
 🔗 **[View Project](https://bikashyadav-dev.github.io/Digital-Clock/)**
 
-### 🔐 PHP Login System
+### 🏠 Landing Page
 
-PHP authentication system using sessions, password hashing and MySQL.
+A modern and responsive landing page built using HTML, CSS and JavaScript.
 
-🔗 **[View Project](https://github.com/bikashyadav-dev)**
+🔗 **[View Project](https://bikashyadav-dev.github.io/Landing-Page/)**
 
----
 
 ### 🌦️ Weather App
 
-JavaScript-based weather application using an API to display weather information.
+A JavaScript-based weather application using an API to display real-time weather information.
 
-🔗 **[View Projects](https://github.com/bikashyadav-dev)**
-
+🔗 **[View Project](https://bikashyadav-dev.github.io/Weather-App/)**
 ---
 
 ## 📊 GitHub Stats
